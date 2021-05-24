@@ -29,6 +29,9 @@
 +18.03.2021:Correlacion ejercicios 
 
 #Semana 8 
++24.03.2021: Correlacion (continuacion)
++25.03.2021:
+
 #Semana 9
 +14.04.2021:Analisis de regresion
 +15.04.2021:Asincrona 
